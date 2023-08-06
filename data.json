@@ -1,0 +1,81 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://www.astronauts.id/blog/wp-content/uploads/2023/03/Daftar-Resep-Es-Buah-yang-Mudah-dan-Enak.jpg",
+            "nama": "Sop Buah",
+            "size": "1 Porsi",
+            "harga": "20.000",
+            "link": "https://food.grab.com/id/id/?gclid=Cj0KCQjwoK2mBhDzARIsADGbjeqX_yehokLD3CPwCNOv43AJeJD4xWN878NIdB-9MZjjQr6gNKynq80aAreQEALw_wcB&gclsrc=aw.ds"
+        },
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "1 Porsi",
+            "harga": "25.000",
+            "link": "https://food.grab.com/id/id/?gclid=Cj0KCQjwoK2mBhDzARIsADGbjeqX_yehokLD3CPwCNOv43AJeJD4xWN878NIdB-9MZjjQr6gNKynq80aAreQEALw_wcB&gclsrc=aw.ds"
+        }
+    ],
+    "cemilan": [
+        {
+            "foto": "https://img.ws.mms.shopee.co.id/id-11134207-23030-35mi9tezvvove3",
+            "nama": "Basreng Super",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.tokopedia.com/hartoyo/basreng-super-nampol-cemilan-kekinian-cemilan-indonesia-daun-jeruk-1d16d?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "https://filebroker-cdn.lazada.co.id/kf/Sa469c820ad244835a5ed6ee2eccd904aZ.jpg",
+            "nama": "Macaroni Sultan",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.tokopedia.com/hartoyo/makaroni-sultan-cemilan-kekinian-cemilan-indonesia-barbeque?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "https://down-id.img.susercontent.com/file/sg-11134201-23010-st8twul1remv08",
+            "nama": "Batagor Chips",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.tokopedia.com/thelittlesnacks/batagor-chips-bechips-keripik-batagor-khas-bandung-cemilan-kekinian-spicy-nut?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ]
+    
+}
